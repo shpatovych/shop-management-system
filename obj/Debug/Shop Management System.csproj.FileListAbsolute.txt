@@ -1,0 +1,19 @@
+D:\Programs\CsharpProjects\repos\Shop Management System\bin\Debug\Shop Management System.exe.config
+D:\Programs\CsharpProjects\repos\Shop Management System\bin\Debug\Shop Management System.exe
+D:\Programs\CsharpProjects\repos\Shop Management System\bin\Debug\Shop Management System.pdb
+D:\Programs\CsharpProjects\repos\Shop Management System\bin\Debug\Guna.UI2.dll
+D:\Programs\CsharpProjects\repos\Shop Management System\obj\Debug\Shop Management System.csproj.AssemblyReference.cache
+D:\Programs\CsharpProjects\repos\Shop Management System\obj\Debug\Shop Management System.csproj.SuggestedBindingRedirects.cache
+D:\Programs\CsharpProjects\repos\Shop Management System\obj\Debug\Shop_Management_System.Properties.Resources.resources
+D:\Programs\CsharpProjects\repos\Shop Management System\obj\Debug\Shop_Management_System.SplashForm.resources
+D:\Programs\CsharpProjects\repos\Shop Management System\obj\Debug\Shop Management System.csproj.GenerateResource.cache
+D:\Programs\CsharpProjects\repos\Shop Management System\obj\Debug\Shop Management System.csproj.CoreCompileInputs.cache
+D:\Programs\CsharpProjects\repos\Shop Management System\obj\Debug\Shop Management System.csproj.CopyComplete
+D:\Programs\CsharpProjects\repos\Shop Management System\obj\Debug\Shop Management System.exe
+D:\Programs\CsharpProjects\repos\Shop Management System\obj\Debug\Shop Management System.pdb
+D:\Programs\CsharpProjects\repos\Shop Management System\obj\Debug\Shop_Management_System.LoginForm.resources
+D:\Programs\CsharpProjects\repos\Shop Management System\obj\Debug\Shop_Management_System.MainForm.resources
+D:\Programs\CsharpProjects\repos\Shop Management System\obj\Debug\Shop_Management_System.UserForm.resources
+D:\Programs\CsharpProjects\repos\Shop Management System\obj\Debug\Shop_Management_System.UserModule.resources
+D:\Programs\CsharpProjects\repos\Shop Management System\bin\Debug\dbHikeShop.mdf
+D:\Programs\CsharpProjects\repos\Shop Management System\bin\Debug\dbHikeShop_log.ldf
